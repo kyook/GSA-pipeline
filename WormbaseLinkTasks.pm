@@ -919,7 +919,7 @@ sub writeOutput {
     use Net::FTP;
     print "FTPing outfile to dartmouth\n";
     my $ftp = Net::FTP->new("ftp1.dartmouthjournals.com", Passive=>1) or die ("Died: Could connect to dartmouth ftp server");
-    $ftp->login('genetics', '22dna25') or die ("could not authenticate");
+    $ftp->login('XXXXXXX', 'XXXXXX') or die ("could not authenticate");
     $ftp->cwd("WormBase") or die ("could not change working dir to WormBase\n");
     my $fn = getFileName($infile)."_linked.xml";
     $ftp->put($outfile, $fn) or die ("Could not put file using FTP: $@\n");
