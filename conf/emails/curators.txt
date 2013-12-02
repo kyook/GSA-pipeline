@@ -1,5 +1,4 @@
-draciti@caltech.edu
-cgrove@caltech.edu
 karen@wormbase.org
 pws@caltech.edu
 todd@wormbase.org
+vanauken@caltech.edu //kimberly needs to be alerted to incoming papers to avoid duplicated WBPaperID assignments
