@@ -1,9 +1,9 @@
-arunr@wormbase.org
-lolly.otis@sheridan.com
-sharon.faelten@sheridan.com
-shannon.mclucas@sheridan.com
 karen@wormbase.org
 pws@caltech.edu
-draciti@caltech.edu
-cgrove@caltech.edu
 todd@wormbase.org
+Genetics_Specialist <Genetics_Specialist.djs@sheridan.com> #Diana Schaeffer <Diana.Schaeffer@sheridan.com>
+GGG_Specialist <GGG_Specialist.djs@sheridan.com> #Erica Sabelawski <erica.sabelawski@sheridan.com>
+GGG_incoming <GGG_incoming.djs@sheridan.com>
+GENET_Incoming <GENET_Incoming.djs@sheridan.com>
+Tim Schedl <ts@genetics.wustl.edu>
+mueller@caltech.edu
